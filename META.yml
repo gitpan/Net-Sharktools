@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Net-Sharktools
-version:            0.003
+version:            0.004
 abstract:           Use Wireshark's packet inspection capabilities in Perl
 author:
     - A. Sinan Unur <nanis@cpan.org>
